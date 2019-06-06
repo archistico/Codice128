@@ -1,0 +1,28 @@
+D:\Programmazione\Codice128\Codice128\bin\Debug\Codice128.exe
+D:\Programmazione\Codice128\Codice128\bin\Debug\Codice128.pdb
+D:\Programmazione\Codice128\Codice128\bin\Debug\Codice128.xml
+D:\Programmazione\Codice128\Codice128\obj\Debug\Codice128.Form1.resources
+D:\Programmazione\Codice128\Codice128\obj\Debug\Codice128.Resources.resources
+D:\Programmazione\Codice128\Codice128\obj\Debug\Codice128.vbproj.GenerateResource.Cache
+D:\Programmazione\Codice128\Codice128\obj\Debug\Codice128.exe
+D:\Programmazione\Codice128\Codice128\obj\Debug\Codice128.xml
+D:\Programmazione\Codice128\Codice128\obj\Debug\Codice128.pdb
+D:\Programmazione\Codice128\Codice128\bin\Debug\itextsharp.dll
+D:\Programmazione\Codice128\Codice128\bin\Debug\itextsharp.xml
+D:\Programmazione\Codice128\Codice128\obj\Debug\Codice128.vbprojResolveAssemblyReference.cache
+D:\Programmazione\Codice128\Codice128\obj\Debug\Codice128.frmLista.resources
+C:\Users\Archemi\Desktop\Da caricare Github\Codice128\Codice128\bin\Debug\Codice128.exe
+C:\Users\Archemi\Desktop\Da caricare Github\Codice128\Codice128\bin\Debug\Codice128.pdb
+C:\Users\Archemi\Desktop\Da caricare Github\Codice128\Codice128\bin\Debug\Codice128.xml
+C:\Users\Archemi\Desktop\Da caricare Github\Codice128\Codice128\bin\Debug\itextsharp.xml
+C:\Users\Archemi\Desktop\Da caricare Github\Codice128\Codice128\obj\Debug\Codice128.vbprojAssemblyReference.cache
+C:\Users\Archemi\Desktop\Da caricare Github\Codice128\Codice128\obj\Debug\Codice128.Form1.resources
+C:\Users\Archemi\Desktop\Da caricare Github\Codice128\Codice128\obj\Debug\Codice128.frmLicenza.resources
+C:\Users\Archemi\Desktop\Da caricare Github\Codice128\Codice128\obj\Debug\Codice128.frmLista.resources
+C:\Users\Archemi\Desktop\Da caricare Github\Codice128\Codice128\obj\Debug\Codice128.Resources.resources
+C:\Users\Archemi\Desktop\Da caricare Github\Codice128\Codice128\obj\Debug\Codice128.vbproj.GenerateResource.cache
+C:\Users\Archemi\Desktop\Da caricare Github\Codice128\Codice128\obj\Debug\Codice128.vbproj.CoreCompileInputs.cache
+C:\Users\Archemi\Desktop\Da caricare Github\Codice128\Codice128\obj\Debug\Codice128.vbproj.CopyComplete
+C:\Users\Archemi\Desktop\Da caricare Github\Codice128\Codice128\obj\Debug\Codice128.exe
+C:\Users\Archemi\Desktop\Da caricare Github\Codice128\Codice128\obj\Debug\Codice128.xml
+C:\Users\Archemi\Desktop\Da caricare Github\Codice128\Codice128\obj\Debug\Codice128.pdb
